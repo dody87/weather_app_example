@@ -1,0 +1,28 @@
+{
+  "name": "weather_app_example",
+  "version": "1.0.0",
+  "description": "weather example app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dody87/weather_app_example.git"
+  },
+  "keywords": [
+    "backbase",
+    "weather",
+    "example"
+  ],
+  "author": "rodrigo ruiz diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dody87/weather_app_example/issues"
+  },
+  "homepage": "https://github.com/dody87/weather_app_example#readme",
+  "dependencies": {
+    "angular-animate": "^1.6.2",
+    "angular-chart.js": "^1.1.1"
+  }
+}
